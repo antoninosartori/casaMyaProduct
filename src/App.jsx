@@ -6,8 +6,8 @@ function App() {
   const [articulos, setArticulos] = useState([]);
   const [searchedArticulos, setSearchedArticulos] = useState([]);
   const [busqueda, setBusqueda] = useState('')
+  const [inputValue, setInputValue] = useState('')
 
-  let initialArticulos = [];
   useEffect(() => {
     
     fetch('/articulos.json')
@@ -20,9 +20,8 @@ function App() {
         })
   }, [])
 
-
-
   const searchInput = (e) => {
+    setInputValue(e.target.value)
     setBusqueda(e.target.value)
     filtrar(e.target.value)
   }
@@ -38,11 +37,19 @@ function App() {
     setSearchedArticulos(resultadoBusqueda)
   }
 
+  const deleteSearch = () => {
+    filtrar('')
+    setInputValue('')
+  }
+
   return (
     <section>
       <div className="container">
         <form action="">
-          <input placeholder='buscar productos' onChange={searchInput} type="text" />
+          <input placeholder='buscar productos' onChange={searchInput} type="text" value={inputValue} />
+          <div onClick={deleteSearch} className="spanContainer">
+            <span className='closeX'>X</span>
+          </div>
         </form>
 
         {articulos.length < 0 ? <h1>CARGANDO</h1> :
