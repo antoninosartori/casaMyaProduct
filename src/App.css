@@ -1,0 +1,93 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  overflow-x: hidden;
+  
+}
+
+section{
+  font-family: 'roboto';
+  width: 100vw;
+  min-height: 100vh;
+  background-color: rgb(4, 4, 40);
+}
+
+.container{
+  padding: 50px;
+  max-width: 992px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  
+}
+
+form{
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+input{
+  
+  padding: 10px;
+  width: 100%;
+  font-size: 20px;
+}
+
+article{
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 10px;
+  width: 250px;
+  height: 300px;
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+article img{
+  width: 250;
+  height: 60%;
+  object-fit: contain;
+}
+
+.price-container{
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  gap: 20px;
+}
+
+.price-container .priceItem:hover{
+  background-color: #df7070;
+}
+
+.priceItem{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.priceItem-priceName{
+  font-size: 20px;
+}
+

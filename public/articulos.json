@@ -1,0 +1,178 @@
+[
+    {
+        "product_id": 1, 
+        "product_name": "Lysoform",
+        "prices": 
+        [
+            {
+                "price_name": "2L",
+                "price": "$160"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_905135-MLA49645763982_042022-O.webp"
+    },
+    {
+        "product_id": 2, 
+        "product_name": "Arpege",
+        "prices":
+        [
+            {
+                "price_name": "2L",
+                "price": "$120"
+            }
+        ],
+        "product_img": "https://carrefourar.vtexassets.com/arquivos/ids/180191/7792389000698_02.jpg?v=637468584298500000"
+    },
+    {
+        "product_id": 3, 
+        "product_name": "Desodorante floral",
+        "prices":
+        [
+            {
+                "price_name": "2L",
+                "price": "$120"
+            }
+        ],
+        "product_img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/186/268/products/piso21-ee1a1e59c9600586ca15900215850168-1024-1024.jpg"
+    },
+    {
+        "product_id": 4, 
+        "product_name": "Desodorante lavanda",
+        "prices":
+        [
+            {
+                "price_name": "2L",
+                "price": "$120"
+            }
+        ],
+        "product_img": "https://masbrillo.com.ar/wp-content/uploads/2021/09/lavanda-900.jpg"
+    },
+    {
+        "product_id": 5, 
+        "product_name": "Desodorante limon",
+        "prices":
+        [
+            {
+                "price_name": "2L",
+                "price": "$120"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_987178-MLA47500995687_092021-O.webp"
+    },
+    {
+        "product_id": 6, 
+        "product_name": "Desodorante cherry",
+        "prices":
+        [
+            {
+                "price_name": "2L",
+                "price": "$120"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_672722-MLA42593360175_072020-O.webp"
+    },
+    {
+        "product_id": 7, 
+        "product_name": "Detergente limon",
+        "prices": 
+        [
+            {
+                "price_name": "1,5L",
+                "price": "$480"
+            },
+            {
+                "price_name": "2L",
+                "price": "$640"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_882809-MLA52449058924_112022-O.webp"
+    },
+    {
+        "product_id": 8, 
+        "product_name": "Jabon liq Azul",
+        "prices": 
+        [
+            {
+                "price_name": "1L",
+                "price": "$240"
+            },
+            {
+                "price_name": "1,5L",
+                "price": "$480"
+            },
+            {
+                "price_name": "2L",
+                "price": "$640"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_819773-MLA48112293023_112021-O.webp"
+    },
+    {
+        "product_id": 9, 
+        "product_name": "Jabon liq verde",
+        "prices": 
+        [
+            {
+                "price_name": "1L",
+                "price": "$240"
+            },
+            {
+                "price_name": "1,5L",
+                "price": "$480"
+            },
+            {
+                "price_name": "2L",
+                "price": "$640"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_832662-MLA52161485869_102022-O.webp"
+    },
+    {
+        "product_id": 10, 
+        "product_name": "Suavizante Blanco",
+        "prices": 
+        [
+            {
+                "price_name": "1,5L",
+                "price": "$200"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_683706-MLA50009787138_052022-O.webp"
+    },
+    {
+        "product_id": 11, 
+        "product_name": "Suavizante Azul",
+        "prices": 
+        [
+            {
+                "price_name": "1,5L",
+                "price": "$480"
+            }
+        ],
+        "product_img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/306/796/products/suavizante-vivex-5l1-6af8054d510c38d88616425151775039-640-0.jpg"
+    },
+    {
+        "product_id": 12, 
+        "product_name": "Lavandina",
+        "prices": 
+        [
+            {
+                "price_name": "5L",
+                "price": "$1100"
+            }
+        ],
+        "product_img": "https://ayudin.clorox.com/wp-content/uploads/2019/05/AR_Lavandina_Clasica_1L_Covid-copy-1.png"
+    },
+    {
+        "product_id": 13, 
+        "product_name": "Limpiavidrios",
+        "prices": 
+        [
+            {
+                "price_name": "1,5L",
+                "price": "$360"
+            }
+        ],
+        "product_img": "https://aldex.com.ar/wp-content/uploads/2017/11/Limpiavidrios-x5L.jpg"
+    }
+]
