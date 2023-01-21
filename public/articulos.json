@@ -174,5 +174,77 @@
             }
         ],
         "product_img": "https://aldex.com.ar/wp-content/uploads/2017/11/Limpiavidrios-x5L.jpg"
+    },
+    {
+        "product_id": 14, 
+        "product_name": "Alcohol en gel",
+        "prices": 
+        [
+            {
+                "price_name": "0,5L",
+                "price": "$280"
+            }
+        ],
+        "product_img": "https://pedidosfarma.vteximg.com.br/arquivos/ids/169740-1000-1000/WEB-Alancos-Alcohol-En-Gel-Bactericida-250ml-copia.jpg?v=637209338754730000"
+    },
+    {
+        "product_id": 15, 
+        "product_name": "Citronella",
+        "prices": 
+        [
+            {
+                "price_name": "2L",
+                "price": "$170"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_978933-MLA31021719983_062019-O.webp"
+    },
+    {
+        "product_id": 16, 
+        "product_name": "Quitamanchas",
+        "prices": 
+        [
+            {
+                "price_name": "0,5L",
+                "price": "$190"
+            }
+        ],
+        "product_img": "https://neoclean.com.ar/wp-content/uploads/2016/07/07791130002295_Front-1-1024x1024.png"
+    },
+    {
+        "product_id": 17, 
+        "product_name": "Shampoo manos Dove",
+        "prices": 
+        [
+            {
+                "price_name": "0,5L",
+                "price": "$200"
+            }
+        ],
+        "product_img": "https://lacasademamaweb.com/wp-content/uploads/2021/04/dove-liquido.jpg"
+    },
+    {
+        "product_id": 18, 
+        "product_name": "Cif gel con Lavanda",
+        "prices": 
+        [
+            {
+                "price_name": "1,5L",
+                "price": "$450"
+            }
+        ],
+        "product_img": "https://prodelimptienda.com.ar/wp-content/uploads/2020/07/CIF-LAVANDA_Mesa-de-trabajo-1-1.png"
+    },
+    {
+        "product_id": 19, 
+        "product_name": "shampoo ropa fina",
+        "prices": 
+        [
+            {
+                "price_name": "1,5L",
+                "price": "$500"
+            }
+        ],
+        "product_img": "https://http2.mlstatic.com/D_NQ_NP_863992-MLA50952427616_082022-O.webp"
     }
 ]

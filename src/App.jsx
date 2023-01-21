@@ -44,7 +44,9 @@ function App() {
 
   return (
     <section>
+      
       <div className="container">
+        <h1>productos de limpieza</h1>
         <form action="">
           <input placeholder='buscar productos' onChange={searchInput} type="text" value={inputValue} />
           <div onClick={deleteSearch} className="spanContainer">
